@@ -1,0 +1,10 @@
+C:\Users\jorda\Desktop\CST-150\Activity11\Activity11\obj\Debug\Activity11.csprojAssemblyReference.cache
+C:\Users\jorda\Desktop\CST-150\Activity11\Activity11\obj\Debug\Activity11.Form1.resources
+C:\Users\jorda\Desktop\CST-150\Activity11\Activity11\obj\Debug\Activity11.Properties.Resources.resources
+C:\Users\jorda\Desktop\CST-150\Activity11\Activity11\obj\Debug\Activity11.csproj.GenerateResource.cache
+C:\Users\jorda\Desktop\CST-150\Activity11\Activity11\obj\Debug\Activity11.csproj.CoreCompileInputs.cache
+C:\Users\jorda\Desktop\CST-150\Activity11\Activity11\bin\Debug\Activity11.exe.config
+C:\Users\jorda\Desktop\CST-150\Activity11\Activity11\bin\Debug\Activity11.exe
+C:\Users\jorda\Desktop\CST-150\Activity11\Activity11\bin\Debug\Activity11.pdb
+C:\Users\jorda\Desktop\CST-150\Activity11\Activity11\obj\Debug\Activity11.exe
+C:\Users\jorda\Desktop\CST-150\Activity11\Activity11\obj\Debug\Activity11.pdb
